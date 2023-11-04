@@ -1,5 +1,5 @@
 # 💫 About Me:
-:computer: I'm currently learning software development, specifically mobile development and back-end service development<br>:technologist: I'm a final year computer science student<br>:dancers: I'm looking to collaborate or involved in a team through an internship or full-time job<br>:date: I have roughly 2.5 years learning experience on mobile development (native android)<br>:speech_balloon: Ask me about android development<br>:telephone_receiver: Reach me on linkedin or email<br>:zap: Fun fact : Sometimes i love to reinvent the wheel
+:computer: I'm currently learning android and back-end development<br>:technologist: I'm a final year computer science student<br>:dancers: I'm looking to collaborate or involved in a team through an internship or full-time job<br>:date: I have roughly 2.5 years learning experience on android dev<br>:speech_balloon: Ask me about android development<br>:telephone_receiver: Reach me on linkedin or instagram<br>:zap: Fun fact : Sometimes i love to reinvent the wheel
 
 
 ## 🌐 Socials:
